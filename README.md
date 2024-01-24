@@ -38,5 +38,9 @@ To compile the So_Long project, follow these steps:
 Once you've met all the following requirements, so_long should start up and look like this (example represents map shown above):
 
 
-
 ![So_Long Preview](theme_selector.png)
+
+
+When u start up the program you'll have the choice in between two characters and with them come different collectible looks to select either character press 1 or 2 on your keyboard then the playable window will pop-up.
+
+![So_Long Preview](ingame.png)
