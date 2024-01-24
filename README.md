@@ -19,4 +19,10 @@ To compile the So_Long project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/so_long.git
+   git clone https://github.com/lukeslater0961/so_long.git
+   ```
+
+2. Then enter the project's directory and type
+   ```code
+   make
+   ```
