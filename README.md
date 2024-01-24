@@ -36,4 +36,7 @@ To compile the So_Long project, follow these steps:
 111111111111
 ```
 Once you've met all the following requirements, so_long should start up and look like this (example represents map shown above):
+
+
+
 ![So_Long Preview](theme_selector.png)
