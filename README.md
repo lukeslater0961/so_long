@@ -11,7 +11,6 @@ Welcome to the So_Long project! So_Long is a simple 2D game implemented in C usi
 - Basic game mechanics (player movement, item collection, and exit reaching).
 - Dynamic rendering with the MinilibX library.
 - Support for different maps and levels.
-- Minimalistic design for easy understanding.
 
 ## How to Compile
 
