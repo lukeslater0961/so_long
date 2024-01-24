@@ -10,7 +10,7 @@ Welcome to the So_Long project! So_Long is a simple 2D game implemented in C usi
 - Dynamic rendering with the MinilibX library.
 - Support for different maps and levels.
 
-## How to Compile
+## The Basics
 
 To compile the So_Long project, follow these steps:
 
@@ -35,12 +35,17 @@ To compile the So_Long project, follow these steps:
 100001000001
 111111111111
 ```
-Once you've met all the following requirements, so_long should start up and look like this (example represents map shown above):
+5. Once you've met all the following requirements, so_long should start up and look like this (example represents map shown above):
 
 
 ![So_Long Preview](theme_selector.png)
 
 
-When u start up the program you'll have the choice in between two characters and with them come different collectible looks to select either character press 1 or 2 on your keyboard then the playable window will pop-up.
+6. When u start up the program you'll have the choice in between two characters and with them come different collectible looks to select either character press 1 or 2 on your keyboard then the playable window will pop-up.
 
 ![So_Long Preview](ingame.png)
+
+7. Now you can wonder around using wasd :D
+8. Now that you understand how to make things work you can now let your mind roam free , u can design the map YOU want just as long as it follows the criteria that have been set, have fun :D
+
+@lslater
