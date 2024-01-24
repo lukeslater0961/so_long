@@ -4,8 +4,6 @@
 
 Welcome to the So_Long project! So_Long is a simple 2D game implemented in C using the MinilibX graphics library. The goal of the game is to navigate through a map, collect items, and reach the exit while avoiding obstacles. It's a great project for learning and practicing graphics programming in C.
 
-![So_Long Preview](images/so_long_preview.png)
-
 ## Features
 
 - Basic game mechanics (player movement, item collection, and exit reaching).
@@ -37,4 +35,5 @@ To compile the So_Long project, follow these steps:
 100001000001
 111111111111
 ```
-Once you've met all the following requirements, so_long should start up and look like this (example represents map shown above)
+Once you've met all the following requirements, so_long should start up and look like this (example represents map shown above):
+![So_Long Preview](theme_selector.png)
