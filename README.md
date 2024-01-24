@@ -27,11 +27,14 @@ To compile the So_Long project, follow these steps:
    make
    ```
 3. After making the project you can start it by typing ```./so_long``` and the .ber file for the map, here's an example of what it should look like ```./so_long map.ber```
-4. Make sure before that you launch that your map is correct, you should have a map with 1 as walls C as the collectible (there has to be at least one) a P for the player and a E for the exit.
+4. Make sure before that you launch that your map is correct, you should have a map with 1 as walls C as the collectible (there has to be at least one) a P for the player, 0 represent the floor and E the exit.
 #Here's an example
 ```
-1111
-1CE1
-10P1
-1111
+111111111111
+1CE100000001
+10000P000001
+100001000001
+100001000001
+111111111111
 ```
+Once you've met all the following requirements, so_long should start up and look like this (example represents map shown above)
