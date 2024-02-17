@@ -48,4 +48,4 @@ Here's an example
 7. Now you can wonder around using wasd :D
 8. Now that you understand how to make things work you can now let your mind roam free , u can design the map YOU want just as long as it follows the criteria that have been set, have fun :D
 
-@lslater
+@lslater (PS :its still a work in progress)
